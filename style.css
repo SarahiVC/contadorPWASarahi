@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: snow;
+  text-align: center;
+}
+
+.menor {
+  color: red;
+}
+
+.mayor {
+  color: green;
+}
+
+button {
+  margin: 0px 0.5rem;
+  padding-left: 10px;
+  background-color: rgb(210, 248, 248);
+}
